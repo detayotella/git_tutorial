@@ -1,1 +1,5 @@
 Tutorial for git workshop organized by EDSA
+
+Chapter 1:
+This is the introduction to Git and GitHub
+
